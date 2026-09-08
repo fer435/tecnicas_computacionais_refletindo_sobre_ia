@@ -1,0 +1,1 @@
+# tecnicas_computacionais_refletindo_sobre_ia
